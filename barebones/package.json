@@ -1,0 +1,14 @@
+{
+  "name": "barebones",
+  "version": "1.0.0",
+  "description": "Barebones implementation of graphql (no api)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin van Dijk, D-DBS",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.10.1"
+  }
+}
